@@ -12,11 +12,11 @@
 
 | Home (pet + timer) | Tasks (quick picks) |
 |---|---|
-| ![Home](screenshots/home.png) | ![Tasks](screenshots/tasks.png) |
+| ![Home](home.png) | ![Tasks](tasks.png) |
 
 | Stats (7-day chart) | Achievements |
 |---|---|
-| ![Stats](screenshots/stats.png) | ![Achievements](screenshots/achievements.png) |
+| ![Stats](stats.png) | ![Achievements](achievements.png) |
 
 ## ✨ Features
 
@@ -34,7 +34,7 @@
 ## 🚀 How to run
 
 ```bash
-git clone https://github.com/<your-username>/FocusPet-Tkinter-MiniProject.git
+git clone https://github.com/<abdurrahman748828-dot>/FocusPet-Tkinter-MiniProject.git
 cd FocusPet-Tkinter-MiniProject
 python3 focuspet.py
 ```
@@ -51,7 +51,7 @@ FocusPet-Tkinter-MiniProject/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-└── screenshots/       # images used in this README
+└── *.png             # screenshots used in this README
 ```
 
 ## 🛠️ Tech and concepts used
@@ -62,9 +62,9 @@ Python 3 · Tkinter / ttk (`Notebook`, `Treeview`, `Combobox`, `Spinbox`, `Progr
 
 | Member | Role | Main parts |
 |---|---|---|
-| **Name 1** | Pet and timer | `PetCanvas`, Home tab, timer logic |
-| **Name 2** | Database and tasks | `Database` class, Tasks tab, Quick Picks |
-| **Name 3** | Stats and UI | Stats chart, achievements, themes, settings, CSV export |
+| ** MD TAUFIQUE ANSARI ** | Pet and timer | `PetCanvas`, Home tab, timer logic |
+| ** SONU KUMAR ** | Database and tasks | `Database` class, Tasks tab, Quick Picks |
+| ** MD ABDUR RAHMAN ** | Stats and UI | Stats chart, achievements, themes, settings, CSV export |
 
 ## 🎮 How XP works
 
